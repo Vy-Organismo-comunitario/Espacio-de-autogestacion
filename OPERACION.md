@@ -5,8 +5,8 @@ Esp
 Acompañamiento de tecnología de trancición web 3 para organizaciones publicas y privadas por la comunidad 
 Accesibilidad de Protocolos de Transparencia en modelos productivos
 -Eng
-ZeroKnowledge Web3 transitional tech for community-led organizations
-ZK Transparency methodologies for traditional working models
+Acompañamiento Web3 transitional tech for community-led organizations
+Accesibility for Transparency methodologies and social impact direct founding on transversal ecosistems.
 
 **Espacios de Soporte**
 
