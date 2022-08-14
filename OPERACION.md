@@ -22,7 +22,7 @@ _Integraciones y Enlaces. Observatorio.vy@proton,me_
 - Desarrollo de material educativo audiovisual para el autogobierno transparente.
 
 - Fondo para acciones de impacto social dirigida por la comunidad  
-[Como accion](https://docs.google.com/forms/d/e/1FAIpQLScBByosLjByVsFJjXGSJ0cuxRjFJlLg3kdOOFoBiQaEV5OY0w/viewform) - [Como canalizador ](Espacio-de-enlace-a-nuevos-canalizadores-enconstrucción.com)
+[Convocatoria de acciones](https://docs.google.com/forms/d/e/1FAIpQLScBByosLjByVsFJjXGSJ0cuxRjFJlLg3kdOOFoBiQaEV5OY0w/viewform) - [Enlace a canalizadores](Espacio-de-enlace-a-nuevos-canalizadores-enconstrucción.com)
 
 
 
