@@ -4,9 +4,11 @@ Espacio para el desarrollo en apoyo de lo open source
 Esp
 Acompañamiento de tecnología de trancición web 3 para organizaciones publicas y privadas por la comunidad 
 Accesibilidad de Protocolos de Transparencia en modelos productivos
+Definicion de herramientas y conceptos.
 -Eng
 Acompañamiento Web3 transitional tech for community-led organizations
 Accesibility for Transparency methodologies and social impact direct founding on transversal ecosistems.
+Definition of tools and concepts.
 
 **Espacios de Soporte**
 
