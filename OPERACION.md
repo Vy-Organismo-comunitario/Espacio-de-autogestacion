@@ -56,7 +56,7 @@ _Transparentados_ en la carta mensual de flujos en el portal de open sea
 _Ganancias del modelo_ entre horas de trabajo del equipo repartido bimestralmente
 
   
-**Protocolos estrategicós para el desarrollo**
+**Protocolos básicos para el desarrollo**
 ### [Mina](https://minaprotocol.com/), [Arwave](https://www.arweave.org/), [Descentraland](https://decentraland.org/) 
 
 
