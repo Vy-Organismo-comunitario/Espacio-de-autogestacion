@@ -62,4 +62,5 @@ _
 ###### **Protocolos invitados para el desarrollo**
 ###### [Mina](https://minaprotocol.com/), [NEAR](https://www.arweave.org/) [Sandbox](https://www.sandbox.game/en/)
 
+![vy logo](https://user-images.githubusercontent.com/38388270/186295316-c020d9e9-a6ed-4449-aa9d-2f99ad5ca2be.png)
 
