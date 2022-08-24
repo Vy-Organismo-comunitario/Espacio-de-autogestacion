@@ -1,64 +1,65 @@
-# Espacio-de-desarrollo
-Espacio para el desarrollo en apoyo de lo open source
-#### Objetivos
-Esp
-Acompañamiento de tecnología de trancición web 3 para organizaciones publicas y privadas por la comunidad 
-Accesibilidad de Protocolos de Transparencia en modelos productivos
-Definicion de herramientas y conceptos.
--Eng
-Acompañamiento Web3 transitional tech for community-led organizations
-Accesibility for Transparency methodologies and social impact direct founding on transversal ecosistems.
-Definition of tools and concepts.
+# Espacio para la Auto-Gestión 🔄 (En construccion 🚧)
+#### Tejido vivo con lineas de open source, web 3, rendicion de cuentas en tierra
+___
 
-**Espacios de Soporte**
+## Objetivos
 
-_Integraciones y Enlaces. Observatorio.vy@proton,me_
-[miniWeb](https://linktr.ee/vy.oi)
-[Registros Web3](https://opensea.io/Vy-OI)
-[Discord](https://discord.gg/2vJ8uJfdcB) 
+Organismo para la transición de los organismos a estructuras decentralizadas para la automatizacion, transparencia y seguridad de flujos para organizaciones publicas, privadas y del tercer sector Latam dev first.
 
-**Servicios**
+## Misiones:
+##### Integracion de organismos centralizados a tecnologias decentralizadas
+##### Educacion sobre la dignidad en los procesos colaborativos
+##### Desarrollo de Tecnologias para la transparencia
+##### Manifestacion de herramientas ready-to-use para organismos mono-centrados
 
-- Acompañamientos y Certificaciones de Transparencia y direccion comunitaria a organismos privados, publicos y del 3er Sector
+## Servicios:
+#### Acompañamiento para la adopcion de herramientas web3 (Enfoque en protocolos de transparencias y direcciones por la comunidad)
+#### Tesorería web3 de archivos cruciales de terceros  
+#### Fondo para acciones de impacto social dirigida por la comunidad  
 
-- Desarrollo de material educativo audiovisual para el autogobierno transparente.
+## **Links de Soporte** 
 
-- Fondo para acciones de impacto social dirigida por la comunidad  
-[Convocatoria de acciones](https://docs.google.com/forms/d/e/1FAIpQLScBByosLjByVsFJjXGSJ0cuxRjFJlLg3kdOOFoBiQaEV5OY0w/viewform) - [Enlace a canalizadores](Espacio-de-enlace-a-nuevos-canalizadores-enconstrucción.com)
-
-
-
-**Formas de Trabajo**
-
-1. Agenda de desarrollo Canal en Discord
-2- En relación con otro organismo
-- Observacion participante 
-- Propuesta de servicios
-- Audición de requerimientos / Logistica en campo
-- Exposicion de resultados
+#### [MiniWeb](https://linktr.ee/vy.oi)
+#### 🧷[Portal Web3](https://opensea.io/VY-Foundation)
+#### [Discord](https://discord.gg/2vJ8uJfdcB) 
+#### [Nominación de proyectos de impacto social](https://docs.google.com/forms/d/e/1FAIpQLScBByosLjByVsFJjXGSJ0cuxRjFJlLg3kdOOFoBiQaEV5OY0w/viewform)
+#### [Alberca activa para el cuidado de los cuerpos](https://lacopitacomun.org/pages/playground-social) 
+#### _Contacto: Observatorio.vy@proton.me_
 
 
-**Transparencia de vy**
 
-- Auto transparencia mensual descriptiva por peso de ingresos y egresos internos
-- Abierto a audiciones y mejores practicas externas
+## Formas de Trabajo 👓
 
-**Gobernanza**
-
-- Direccion Tokenizada _Concenso_ al 75 de aceptación
-- Reparticion de Tokens
-- Tokens públicos de gobierno 20%. 
-- Tokens de colaboradores 80% activos entre horas de colaboración mensual.
-- Espacio abierto para el dialogo en [discord](https://discord.gg/2vJ8uJfdcB)
-- Horas de trabajo registradas semanalmente en canal de discord
+##### Cada Hora de trabajo en el organismo equivale a un token.
+##### Votaciones tokenizadas en telegram
+##### Registro del desarrollo en [XLS]([https://docs.google.com/spreadsheets/d/11MRppjRPLAnHrweYX_mZZm0n1ASGA_58DCGeMwoLh_I/edit?usp=sharing]
+##### *Todas las horas de integración se pagan en 19 dls*
+##### Sólo se aceptan pagos en cripto. Direccion oficial del organismo: *0xf61ce4516ffA9844AEEf9d9DC3fd96f767863321*
 
 
-**Costos dirigidos por el equipo de desarrollo** 
-_Transparentados_ en la carta mensual de flujos en el portal de open sea
-_Ganancias del modelo_ entre horas de trabajo del equipo repartido bimestralmente
 
-  
-**Protocolos básicos para el desarrollo**
-### [Mina](https://minaprotocol.com/), [Arwave](https://www.arweave.org/), [Descentraland](https://decentraland.org/) 
+### Cobro de servicios 💳
+
+##### Toda cotización desde el correo oficial.
+##### Acompañamiento de adaptacion a tecnologias web3 *10% del ingreso mensual en intervencion
+##### Almacen y verificacion de links de datos para proyectos *4% del ingreso promedio anual del año en operacion
+##### Canalizacion de proyectos *free
+
+
+## Formas de no trabajo 
+##### 🚫 No aceptamos pagos en efectivo ni faltas de respeto
+
+___
+
+___
+
+# Proximas Estapas desarrollos ⚒
+
+## Cripto moneda propia 📍
+## Dao grant dev 📍
+
+_
+###### **Protocolos invitados para el desarrollo**
+###### [Mina](https://minaprotocol.com/), [NEAR](https://www.arweave.org/) [Sandbox](https://www.sandbox.game/en/)
 
 
