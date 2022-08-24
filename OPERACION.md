@@ -1,4 +1,4 @@
-# Espacio para la Auto-Gestión 🔄 (En construccion 🚧)
+# Para la Auto-Gestión 🔄 (En construccion constante 🚧)
 #### Tejido vivo con lineas de open source, web 3, rendicion de cuentas en tierra
 ___
 
