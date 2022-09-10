@@ -26,7 +26,7 @@ Organismo para la transición a estructuras decentralizadas para la automatizaci
 #### [Discord](https://discord.gg/2vJ8uJfdcB) 
 #### [Nominación de proyectos de impacto social](https://docs.google.com/forms/d/e/1FAIpQLScBByosLjByVsFJjXGSJ0cuxRjFJlLg3kdOOFoBiQaEV5OY0w/viewform)
 #### [Alberca activa para el cuidado de los cuerpos](https://lacopitacomun.org/pages/playground-social) 
-#### _Contacto: Observatorio.vy@proton.me_
+#### Correo Oficial: Observatorio.vy@proton.me
 
 
 
@@ -34,7 +34,7 @@ Organismo para la transición a estructuras decentralizadas para la automatizaci
 
 ##### Cada Hora de trabajo en el organismo equivale a un token.
 ##### Tareas en Desarrollo Canal de [discord](https://discord.gg/5AyHT8Pqc9)
-##### Registro del desarrollo en [XLS]([https://docs.google.com/spreadsheets/d/11MRppjRPLAnHrweYX_mZZm0n1ASGA_58DCGeMwoLh_I/edit?usp=sharing]
+##### Registro del desarrollo en [XLS](https://docs.google.com/spreadsheets/d/11MRppjRPLAnHrweYX_mZZm0n1ASGA_58DCGeMwoLh_I/edit?usp=sharing)
 ##### Sólo se aceptan pagos en cripto. Direccion oficial del organismo: *0xf61ce4516ffA9844AEEf9d9DC3fd96f767863321*
 ##### Celebracion de colaboración por Correo Oficial desde Observatorio.vy@proton.me
 
@@ -64,7 +64,7 @@ ___
 
 _
 ###### **Protocolos invitados para el desarrollo**
-###### [Mina](https://minaprotocol.com/), [NEAR]((https://near.org/) [Celo](https://celo.org/es)
+###### [Mina](https://minaprotocol.com/), [NEAR](https://near.org/), [Celo](https://celo.org/es)
 
 ![vy logo](https://user-images.githubusercontent.com/38388270/186295316-c020d9e9-a6ed-4449-aa9d-2f99ad5ca2be.png)
 
