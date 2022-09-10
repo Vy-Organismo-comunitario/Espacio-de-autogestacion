@@ -4,13 +4,15 @@ ___
 
 ## Objetivos
 
-Organismo para la transición de los organismos a estructuras decentralizadas para la automatizacion, transparencia y seguridad de flujos para organizaciones publicas, privadas y del tercer sector Latam dev first.
+Organismo para la transición a estructuras decentralizadas para la automatizacion, transparencia y seguridad de flujos en organizaciones publicas, privadas y del Tercer Sector
 
 ## Misiones:
-##### Integracion de organismos centralizados a tecnologias decentralizadas
-##### Educacion sobre la dignidad en los procesos colaborativos
-##### Desarrollo de Tecnologias para la transparencia
-##### Manifestacion de herramientas ready-to-use para organismos mono-centrados
+##### Incubación de organismos no-monocentrados
+##### Integracion de organismos centralizados a procesos decentralizados
+##### Exploración sobre dignidad y horizontalidad en procesos colaborativos
+##### Desarrollo de Tecnologias para la transparencia 
+##### Enlace de herramientas Web3
+
 
 ## Servicios:
 #### Acompañamiento para la adopcion de herramientas web3 (Enfoque en protocolos de transparencias y direcciones por la comunidad)
@@ -31,19 +33,20 @@ Organismo para la transición de los organismos a estructuras decentralizadas pa
 ## Formas de Trabajo 👓
 
 ##### Cada Hora de trabajo en el organismo equivale a un token.
-##### Votaciones tokenizadas en telegram
+##### Tareas en Desarrollo Canal de [discord](https://discord.gg/5AyHT8Pqc9)
 ##### Registro del desarrollo en [XLS]([https://docs.google.com/spreadsheets/d/11MRppjRPLAnHrweYX_mZZm0n1ASGA_58DCGeMwoLh_I/edit?usp=sharing]
-##### *Todas las horas de integración se pagan en 19 dls*
 ##### Sólo se aceptan pagos en cripto. Direccion oficial del organismo: *0xf61ce4516ffA9844AEEf9d9DC3fd96f767863321*
+##### Celebracion de colaboración por Correo Oficial desde Observatorio.vy@proton.me
 
-
+---
 
 ### Cobro de servicios 💳
 
 ##### Toda cotización desde el correo oficial.
-##### Acompañamiento de adaptacion a tecnologias web3 *10% del ingreso mensual en intervencion
-##### Almacen y verificacion de links de datos para proyectos *4% del ingreso promedio anual del año en operacion
-##### Canalizacion de proyectos *free
+##### Acompañamiento de adaptacion a tecnologias web3 *10% de ingreso mensual promedio
+##### Incubación de nuevos organismos *2% del flujo promedio anual del año en operacion
+##### Material de **libre acceso** en español de herramientas web3
+
 
 
 ## Formas de no trabajo 
@@ -53,6 +56,7 @@ ___
 
 ___
 
+
 # Proximas Estapas desarrollos ⚒
 
 ## Cripto moneda propia 📍
@@ -60,7 +64,7 @@ ___
 
 _
 ###### **Protocolos invitados para el desarrollo**
-###### [Mina](https://minaprotocol.com/), [NEAR](https://www.arweave.org/) [Sandbox](https://www.sandbox.game/en/)
+###### [Mina](https://minaprotocol.com/), [NEAR]((https://near.org/) [Celo](https://celo.org/es)
 
 ![vy logo](https://user-images.githubusercontent.com/38388270/186295316-c020d9e9-a6ed-4449-aa9d-2f99ad5ca2be.png)
 
