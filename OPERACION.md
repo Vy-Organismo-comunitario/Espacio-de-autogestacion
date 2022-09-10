@@ -59,12 +59,14 @@ ___
 
 # Proximas Estapas desarrollos ⚒
 
+## Web2 & 3 portal 📍
 ## Cripto moneda propia 📍
-## Dao grant dev 📍
+## Dao like grant dev 📍
+
 
 _
 ###### **Protocolos invitados para el desarrollo**
-###### [Mina](https://minaprotocol.com/), [NEAR](https://near.org/), [Celo](https://celo.org/es)
+###### [Gitcoin](https://gitcoin.co/), [NEAR](https://near.org/), [Celo](https://celo.org/es), 
 
 ![vy logo](https://user-images.githubusercontent.com/38388270/186295316-c020d9e9-a6ed-4449-aa9d-2f99ad5ca2be.png)
 
