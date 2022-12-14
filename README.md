@@ -19,6 +19,3 @@ Utilidades entre las [horas de trabajo](https://docs.google.com/spreadsheets/d/1
 + ++ Misiones por definir: Research, Top security recomendations and scams at FB, Twitter, Discord, Telegram   
 
 
- -  Observatorio.vy@proton.me
-
-
