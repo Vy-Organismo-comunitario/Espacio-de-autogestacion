@@ -11,10 +11,10 @@
 ---
 
 ---
-+ Métricas de accesibilidad de Herramientas (Wallets, Criptos, NFTs, Props, Smart Contracts) 🚧
-+ Métricas para la transparencia (Infografía (Autoregulacion y claridad nominas y gastos via xls)) 🚧
-+ Métricas de horizontalidad en la gobernanza (Infografía) 🚧
-+ Albercas de Fondos (Convocatoria de proyectos de impacto ambiental) (XLS, Wallet de proyectos, wallets de collabs, politica de recursos ) 🚧
++ Métricas de accesibilidad de Herramientas (Wallets, Criptos, NFTs, Props, Smart Contracts)🚧
++ Métricas para la transparencia (Infografía (Autoregulacion y claridad nominas y gastos via xls))🚧
++ Métricas de horizontalidad en la gobernanza (Infografía)🚧
++ Enlace de Fondos (Convocatoria de proyectos de impacto ambiental) (XLS, Wallet de proyectos, wallets de collabs, politica de recursos )🚧
 + [Gestor de datos criticos para proyectos comunitarios via NFT](https://opensea.io/VY-Foundation)
 + Lanzamiento de Gov token
 + Todas las Utilidades entre las [horas de trabajo](https://docs.google.com/spreadsheets/d/11MRppjRPLAnHrweYX_mZZm0n1ASGA_58DCGeMwoLh_I/edit?usp=sharing)
