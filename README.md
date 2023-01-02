@@ -15,10 +15,16 @@
 + Métricas para la transparencia (Infografía (Autoregulacion y claridad nominas y gastos via xls))🚧
 + Métricas de horizontalidad en la gobernanza (Infografía)🚧
 + Enlace de Fondos (Convocatoria de proyectos de impacto ambiental) (XLS, Wallet de proyectos, wallets de collabs, politica de recursos )🚧
-+ [Gestor de datos criticos para proyectos comunitarios via NFT](https://opensea.io/VY-Foundation)
-+ Lanzamiento de Gov token
++ Lanzamiento de Gov token via Rifa públicá
 + Todas las Utilidades entre las [horas de trabajo](https://docs.google.com/spreadsheets/d/11MRppjRPLAnHrweYX_mZZm0n1ASGA_58DCGeMwoLh_I/edit?usp=sharing)
 + 🏗️Estrategía de enlaze [Rifa de proyector](https://docs.google.com/spreadsheets/d/1O-CsX7oILsPtKkliTaB1t4ti-I-A_wzk26r5YkGJZDw/edit?usp=sharing) > [Fundacion en cadena](https://docs.google.com/presentation/d/1jTZ8wHK3UWWbp44Fllf5DzHMkBtvwXBN44bVJ33KFW8/edit?usp=sharing)
 + [Coleccón](https://opensea.io/collection/easytogethercards) de Tips Web3 (NFTs, Estafas, Seguridad, Marketing, Desarrollo) 🚧
 
 [Mail][Observatorio.vy@proton.me](Observatorio.vy@proton.me)
+
+---
+
+### Stones 3.0 🗿 🧗🏽
+#### | Servicios ofrecidos (Dev) Via [NFT Log](https://opensea.io/VY-Foundation) | 1 |
+### | Fondeo via Sorteo (Onboarding Gov Token & Walletization) | 2 |
+### | Alianza con Organismos centralizados (Shiping) | 3 |
