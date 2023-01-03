@@ -26,5 +26,5 @@
 
 # Stones 3.0 🗿 🧗🏽
 ###  Servicios ofrecidos (Dev) Via [NFT Log](https://opensea.io/VY-Foundation) | 1 |
-###  Fondeo via [Sorteo](https://docs.google.com/spreadsheets/d/1O-CsX7oILsPtKkliTaB1t4ti-I-A_wzk26r5YkGJZDw/edit?usp=sharing) (Onboarding Gov Token & Walletization) | 2 | **11 Gov Tokens Delivered**
+###  Fondeo via [Sorteo](https://docs.google.com/spreadsheets/d/1O-CsX7oILsPtKkliTaB1t4ti-I-A_wzk26r5YkGJZDw/edit?usp=sharing) (Onboarding Gov Token & Walletization) | 2 | *11 Gov Tokens Delivered*
 ###  Alianza con Organismos centralizados (Shiping) | 3 |
